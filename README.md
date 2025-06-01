@@ -7,7 +7,7 @@ Congratulations, you’ve successfully completed the Deploying Websites using Gi
 
 Here is our roadmap to mastering Git and GitHub:
 
-- Learn Git: Introduction <– Completed!
+- [Learn Git: Introduction](https://www.codecademy.com/courses/learn-git-introduction/lessons/git-workflow/exercises/hello-git) <– Completed!
 - Learn GitHub: Introduction <– Completed!
 - Learn Git: Branching and Collaboration <– Completed!
 - Learn GitHub: Best Practices <– Completed!
